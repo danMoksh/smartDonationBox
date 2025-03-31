@@ -14,8 +14,5 @@ For inquiries or permission requests, contact our at mishraneeraj@mitsgwalior.in
 ## Author
 - Written and maintained by Moksh Dandotiya.
 - Contact: moksh@duck.com
-
-This project is the original work of [Your Full Name], completed in 2025.
-
 ---
 *Note: This is not open-source software. See the LICENSE file for details.*
