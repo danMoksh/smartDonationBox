@@ -1,3 +1,5 @@
+> **Engineering write-up:** Check out the full Smart Donation Box blog on my portfolio website: [moksh.is-a.dev/#blog/smart-donation-box](https://moksh.is-a.dev/#blog/smart-donation-box)
+
 # Smart Donation Box
 
 ## Overview
